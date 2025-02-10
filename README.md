@@ -1,1 +1,1 @@
-a main page that links to different recipes
+a main page that links to different recipes.
